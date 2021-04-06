@@ -1,0 +1,7 @@
+chose a random ENglish shuffered word from string .
+your work is change place of the letter to find the true word.
+input : a string english words
+your work : nhap vao vi tri chu cai chuyen di  va vi tri can chuyen den cho den khi tim dc tu can tim
+output : true word
+
+
