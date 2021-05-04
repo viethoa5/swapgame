@@ -1,9 +1,13 @@
 # depslib dependency file v1.0
-1617640187 source:c:\users\admin\desktop\game\game.cpp
+1620088467 source:c:\users\admin\desktop\game\game.cpp
 	<iostream>
 	<string>
-	<fstream>
 	<vector>
-	<cstdlib>
 	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+	<fstream>
 
